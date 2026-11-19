@@ -1,7 +1,11 @@
 # Newsday — 19 November 2026
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/Urdemonlord/newsday-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/Urdemonlord/newsday-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 One 1024×1024 newspaper front page summing up Thursday 19 November 2026,
-built for make.fun's `news-image-20261119` bounty ($250 in USDC).
+built for [make.fun's `news-image-20261119` bounty](https://make.fun/bounty/news-image-20261119) ($250 in USDC).
 
 The day in six stories: the first-ever Trump–Xi–Putin trilateral in Shenzhen,
 Hakeem Jeffries nominated for US House Speaker, Anthropic's record $81.3bn
